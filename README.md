@@ -5,7 +5,7 @@ The package simple_linear_regression is used to:
 
     Model Analysis :
     	- Plot fit model
-        -statistical results table
+        - statistical results table
 
 ## Installation
 
