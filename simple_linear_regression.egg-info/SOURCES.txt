@@ -1,0 +1,10 @@
+README.md
+setup.py
+plot_regression/__init__.py
+plot_regression/plot_map.py
+plot_regression/results_table.py
+simple_linear_regression.egg-info/PKG-INFO
+simple_linear_regression.egg-info/SOURCES.txt
+simple_linear_regression.egg-info/dependency_links.txt
+simple_linear_regression.egg-info/requires.txt
+simple_linear_regression.egg-info/top_level.txt
