@@ -1,17 +1,18 @@
-# simple_lienar_regression
+# simple_linear_regression
 
 Description.
-The package simple_lienar_regression is used to:
+The package simple_linear_regression is used to:
 
     Model Analysis :
     	- Plot fit model
+        -statistical results table
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install simple_lienar_regression
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install simple_linear_regression
 
 ```bash
-pip install simple_lienar_regression
+pip install simple_linear_regression
 ```
 
 ## Usage
