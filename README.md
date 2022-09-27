@@ -17,9 +17,20 @@ pip install simple_lienar_regression
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+ import plot_regression.plot_map as mp
+
+mp.plot_regression(data['GPA'],data['SAT']);
 ```
+
+<img width="auto" src="">
+
+```python
+ import plot_regression.results_table as tb
+
+tb.result_table(data['GPA'],data['SAT'])
+```
+
+<img width="auto" src="">
 
 ## Author
 
